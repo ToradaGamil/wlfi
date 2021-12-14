@@ -8,7 +8,7 @@ if (empty($_GET['page'])){
         include $file;
     
     }else{
-        echo "page mesh mwgoda broh omk";
+        echo "page not  found ya raye222";
     }
 }
 
